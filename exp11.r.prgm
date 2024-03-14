@@ -1,0 +1,3 @@
+data <- c(10, 20, 30, 40, 50)
+mid_range <- (min(data) + max(data)) / 2
+print(paste("Mid-range:", mid_range))
