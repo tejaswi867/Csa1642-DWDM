@@ -1,0 +1,3 @@
+data_vector <- c(10, 20, 30, 40, 50)
+normalized_vector <- scale(data_vector)
+print(normalized_vector)
